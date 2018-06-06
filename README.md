@@ -45,7 +45,7 @@ In this session, we will:
 -----
 
 Session Leader: Jojo Karlin  
-Based on previous work by Patrick Smyth and Mary Catherine McKinniburgh
+Based on previous work by Jojo Karlin, Patrick Smyth, and Mary Catherine McKinniburgh
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
